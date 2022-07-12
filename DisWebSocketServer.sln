@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisWebSocketServer", "Dis.WebSocketServer\DisWebSocketServer.csproj", "{24AF4FD8-9E17-42EC-A8A9-81F79F6CFC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisEntity", "DisEntity\DisEntity.csproj", "{0BB15CE9-0676-4073-BD4C-0E873C128DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24AF4FD8-9E17-42EC-A8A9-81F79F6CFC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AF4FD8-9E17-42EC-A8A9-81F79F6CFC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AF4FD8-9E17-42EC-A8A9-81F79F6CFC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AF4FD8-9E17-42EC-A8A9-81F79F6CFC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB15CE9-0676-4073-BD4C-0E873C128DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB15CE9-0676-4073-BD4C-0E873C128DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB15CE9-0676-4073-BD4C-0E873C128DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB15CE9-0676-4073-BD4C-0E873C128DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE140C0-520F-4C20-BA75-2DECD0088557}
+	EndGlobalSection
+EndGlobal
